@@ -1,0 +1,10 @@
+.idea
+.vscode
+build
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+cython_debug/
+**/output*
+output*
